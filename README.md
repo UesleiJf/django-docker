@@ -68,3 +68,5 @@ After this, just execute the commands makemigrations and migrate to create proje
 Now, you can start the project:
 
     docker-compose up
+
+Atualizado em 2026
